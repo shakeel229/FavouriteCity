@@ -1,0 +1,9 @@
+img {
+  display: block;
+}
+button {
+  margin: 20px;
+}
+.colorChanger {
+  background-color: aquamarine;
+}
